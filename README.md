@@ -10,11 +10,16 @@ All the simulations have been performed using the following settings:
 > Suggestion: You can download the animations below in order to watch them at a higher resolution.
 
 ## Greedy
+![greedy](recordings/greedy.gif)
 
 ## Random
+![random](recordings/random.gif)
 
-## Reverse-Pyramid-A
+## Reverse pyramid-A
+![reverse-pyramid-a](recordings/reverse-pyramid-a.gif)
 
 ## Hybrid-A
+![hybrid-a](recordings/hybrid-a.gif)
 
 ## Hybrid-B
+![hybrid-b](recordings/hybrid-b.gif)
